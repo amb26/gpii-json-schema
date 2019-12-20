@@ -21,8 +21,8 @@
         "gpii-binder": "1.0.5",
         "gpii-express": "1.0.15",
         "gpii-handlebars": "1.1.4",
-        "infusion": "3.0.0-dev.20190507T155813Z.4781871fd.FLUID-6148",
-        "kettle": "1.11.0"
+        "infusion": "3.0.0-dev.20191220T163226Z.db83ce0ef.FLUID-6145",
+        "kettle": "1.12.0-dev.20191220T164344Z.f1fef17.FLUID-6145"
     },
     "devDependencies": {
         "eslint": "6.0.0",
